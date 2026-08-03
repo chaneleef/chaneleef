@@ -11,11 +11,11 @@ My favorite stack is React, Node.js, Python, and MongoDB, and I also enjoy worki
 Outside of personal projects, I've built software in the fintech industry through my application development internship.
 
 Some things I'm currently building:
-- 🌸 A kawaii-inspired notes app
-- 📍 AI travel planner
+-  A kawaii-inspired notes app
+-  AI travel planner
 
 Fun facts:
-- 🧶 I love to crochet
-- 🎮 I love video games
-- 📚 You'll usually find me reading or watching movies
-- ✈️ I studied abroad in Madrid and my goal is to travel the world
+- I love to crochet
+- I love video games
+- You'll usually find me reading or watching movies
+- I studied abroad in Madrid and my goal is to travel the world
