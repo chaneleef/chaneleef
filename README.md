@@ -6,7 +6,7 @@ I love building products that solve real problems, whether that's a full-stack w
 
 I'm especially interested in backend engineering, cloud infrastructure, distributed systems, and AI, and I'm always looking for projects that push me to learn something new.
 
-My favorite stack is React, Node.js, Python, MongoDB, SQL, and AWS.
+My favorite stack is React, Node.js, Python, and MongoDB, and I also enjoy working with SQL and AWS.
 
 Outside of personal projects, I've built software in the fintech industry through my application development internship.
 
