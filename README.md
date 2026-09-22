@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Chanelee, a Computer Science student based in New York.
+I'm Chanelee,
 
 I love building products that solve real problems, whether that's a full-stack web app, an AI-powered tool, or something that makes everyday life a little easier.
 
