@@ -20,9 +20,9 @@ AI Engineering • Cloud Infrastructure • Distributed Systems • Backend Deve
 
 ### What I'm Building
 
-* 📝 **Kawaii Notes App** — a full-stack notes application built with React, Node.js, and MongoDB
-* ✈️ **AI Travel Planner** — an AI-powered tool designed to make travel planning easier
-* 🐾 **PawPal+** — an AI-powered pet scheduling assistant built with Streamlit
+* **Kawaii Notes App** — a full-stack notes application built with React, Node.js, and MongoDB
+* **AI Travel Planner** — an AI-powered tool designed to make travel planning easier
+* **PawPal+** — an AI-powered pet scheduling assistant built with Streamlit
 
 ### Experience
 
